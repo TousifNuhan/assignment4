@@ -8,4 +8,5 @@ function calculateMoney(ticketSale) {
     
     }
 
-const ticket=calculateMoney(10);
+const ticket=calculateMoney(-130);
+console.log(ticket);
