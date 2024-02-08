@@ -39,5 +39,5 @@ function checkName(name) {
       return 'Invalid';
     }
 
-    const names=checkName('salman');
+    const names=checkName('salmaW');
     console.log(names);

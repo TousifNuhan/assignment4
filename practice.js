@@ -1,5 +1,5 @@
-let a='A,B,X,A,E';
+let a=[1,'nuhan',5];
 
-for(const sum of a){
-    console.log(sum);
+for(const b of a){
+    console.log(typeof b);
 }
