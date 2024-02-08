@@ -1,5 +1,5 @@
-let a=[1,'nuhan',5];
+let a=5;
 
-for(const b of a){
-    console.log(typeof b);
-}
+let b=4.7;
+console.log();
+
